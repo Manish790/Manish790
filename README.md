@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manish790
 - 👀 I’m interested in Competitive Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI
+- 🌱 Problem Solving Using DSA in Java
+- 💞️ Keen Programmer
 
 
 <!---
